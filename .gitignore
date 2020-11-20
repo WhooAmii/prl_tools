@@ -22,7 +22,6 @@
 *.dwo
 *.elf
 *.gcno
-*.gz
 *.i
 *.ko
 *.lex.c
@@ -161,7 +160,8 @@ sphinx_*/
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
